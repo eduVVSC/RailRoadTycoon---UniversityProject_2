@@ -20,16 +20,16 @@ The simulator should have two types of user, an editor and a player, each one of
   10. Industry Production Logic;
   11. JavaFx Ui full built, design and implemtation;
 
-## Acomplishments
+## Acomplishments 
+
+We managed to deliver a great product in the stipulated date, with a beautiful UI and all modules working as requested.
 
 
-
-
-
-
-
-
-
+## What I would have done differently  
+  1. Used more of polymorphism and interfaces
+  2. Used more redundancy in the code to keep it less coupeled
+  3. Lower the texture quality to keep the game lighter
+  4. Created personalized exceptions;
 
 
 
