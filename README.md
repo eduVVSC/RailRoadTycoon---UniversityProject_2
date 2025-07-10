@@ -10,19 +10,37 @@ The simulator should have two types of user, an editor and a player, each one of
 ## Areas Developed
   ### Math  
   The **math** used were in the subject of **statitics** and **discret math**. 
-  - **Discret Math**:
+  - **Discret Math**(US013, US014, ):
       - Graph (Construction, manipulation and usage of algorithms),
       - Matrix Manipulation,
       - Algorithm Analysis,
   
   ### Programming 
   - Object-Oriented programming,
-  - Concept 
+  - Concept of heritage and polymorphism,
+  - Interfaces,
+  - Exceptions,
+  - TDD,
   
   ### Software Engeneering
-  
-  ### Teamwork (github usage and communication)
+  - GRASP,
+  - Requirement Gathering,
+  - Analysis,
+  - Design,
+  - Implementations,
+  - Test and Validation of required rules,
+  - DTO and mapper,
+  - Cohesion and coupling,
+  - Protected Variation and Adapters,
 
+
+  ### Teamwork (github usage and communication)
+  - Board usage,
+  - Teams,
+  - Discord,
+  - Pull request,
+  - Branches,
+  - SCRUM,
 
 ## My Resposabilities
   1. **Requirement Gathering, Analysis, Design and Implementation** of US001, US002, US0012, US0013, US0027, US026;
@@ -36,22 +54,20 @@ The simulator should have two types of user, an editor and a player, each one of
   9. Logic of **station manipulation of resourses **of objects in it's range;
   10. **Industry Production Logic**;
   11. **JavaFx** Ui full built, design and implemtation;
-  12. **Application of Discrete Math** theory (graphs algorithms)
+  12. **Application of Discrete Math** theory (graphs algorithms);
 
 ## Acomplishments 
 
-We managed to deliver a great product in the stipulated date, with a great UI and all modules working as requested, the logic of the simulator is not consuming to much memory, but the choices of library to represent the graphs(representation of connections between objects in the map and of the objects itselves) are of much cost.
+We managed to **deliver a great product** in the stipulated date, with a **great UI** and **all modules working as requested**, the logic of the simulator is not consuming to much memory, but the choices of library to represent the graphs(representation of connections between objects in the map and of the objects itselves) are of much cost.
 
 
 
 ## What I would have done differently  
-  1. Used more of polymorphism and interfaces
-  2. Used more redundancy in the code to keep it less coupeled
-  3. Lower the texture quality to keep the game lighter
-  4. Created personalized exceptions;
-
-
-
+  1. Used more of polymorphism and interfaces,
+  2. Used more redundancy in the code to keep it less coupeled,
+  3. Lower the texture quality to keep the game lighter,
+  4. Created personalized exceptions,
+  5. Changed the library used to draw the graphs,
 
 
 
