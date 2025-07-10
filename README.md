@@ -7,22 +7,41 @@ SDP
 
 The simulator should have two types of user, an editor and a player, each one of them should have it's own menu where they could manage each of their functionalities. 
 
+## Areas Developed
+  ### Math  
+  The **math** used were in the subject of **statitics** and **discret math**. 
+  - **Discret Math**:
+      - Graph (Construction, manipulation and usage of algorithms),
+      - Matrix Manipulation,
+      - Algorithm Analysis,
+  
+  ### Programming 
+  - Object-Oriented programming,
+  - Concept 
+  
+  ### Software Engeneering
+  
+  ### Teamwork (github usage and communication)
+
+
 ## My Resposabilities
-  1. Requirement Gathering, Analysis, Design and Implementation of US001, US002, US0012, US0013, US0027, US026;
-  2. General Non-Functional Requirements;
-  3. Use Case diagram;
+  1. **Requirement Gathering, Analysis, Design and Implementation** of US001, US002, US0012, US0013, US0027, US026;
+  2. General **Non-Functional Requirements**;
+  3. **Use Case diagram**;
   4. Class diagram for the user Stories that were nominated for me;
-  5. General Class Diagram;
-  6. Boot of the repository. Coded all the classes boot with the basic methods, logic of the program and declarated methods from CD;
-  7. Logic of the map and position management;
-  8. Logic of the simulator managment of time;
-  9. Logic of station manipulation of resourses of objects in it's range;
-  10. Industry Production Logic;
-  11. JavaFx Ui full built, design and implemtation;
+  5. **General Class Diagram**;
+  6. **Boot of the repository**. Coded all the classes boot with the basic methods, logic of the program and declarated methods from CD;
+  7. Logic of the **map and position management**;
+  8. Logic of the **simulator managment of time**;
+  9. Logic of **station manipulation of resourses **of objects in it's range;
+  10. **Industry Production Logic**;
+  11. **JavaFx** Ui full built, design and implemtation;
+  12. **Application of Discrete Math** theory (graphs algorithms)
 
 ## Acomplishments 
 
-We managed to deliver a great product in the stipulated date, with a beautiful UI and all modules working as requested.
+We managed to deliver a great product in the stipulated date, with a great UI and all modules working as requested, the logic of the simulator is not consuming to much memory, but the choices of library to represent the graphs(representation of connections between objects in the map and of the objects itselves) are of much cost.
+
 
 
 ## What I would have done differently  
