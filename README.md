@@ -1,74 +1,90 @@
-# RailroadTycoon project
+# 🚂 Railroad Tycoon Project
 
-The project had the main goal applying a proper [SDP](https://www.geeksforgeeks.org/software-engineering/software-development-process/) given in the classes of the semester, and use the concepts of Object-Oriented programming, to develop a simulator based in the Railroad Tycoon.
+This project aimed to apply a structured [Software Development Process (SDP)](https://www.geeksforgeeks.org/software-engineering/software-development-process/) taught during the semester, while utilizing Object-Oriented Programming (OOP) principles to develop a simulation game inspired by **Railroad Tycoon**.
 
-SDP
-[!image](SDP.png)
+![SDP Diagram](SDP.png)
 
-The simulator should have two types of user, an editor and a player, each one of them should have it's own menu where they could manage each of their functionalities. 
+The simulator includes two distinct user types:  
+- **Editor**: Manages and configures simulation data.  
+- **Player**: Interacts with and plays the simulation.
 
-## Areas Developed
-  ### Math  
-  The **math** used were in the subject of **statitics** and **discret math**. 
-  - **Discret Math**(US013, US014, ):
-      - Graph (Construction, manipulation and usage of algorithms),
-      - Matrix Manipulation,
-      - Algorithm Analysis,
-  
-  ### Programming 
-  - Object-Oriented programming,
-  - Concept of heritage and polymorphism,
-  - Interfaces,
-  - Exceptions,
-  - TDD,
-  
-  ### Software Engeneering
-  - GRASP,
-  - Requirement Gathering,
-  - Analysis,
-  - Design,
-  - Implementations,
-  - Test and Validation of required rules,
-  - DTO and mapper,
-  - Cohesion and coupling,
-  - Protected Variation and Adapters,
+Each user type has a dedicated menu with functionalities relevant to their role.
 
+---
 
-  ### Teamwork (github usage and communication)
-  - Board usage,
-  - Teams,
-  - Discord,
-  - Pull request,
-  - Branches,
-  - SCRUM,
+## 📚 Areas of Development
 
-## My Resposabilities
-  1. **Requirement Gathering, Analysis, Design and Implementation** of US001, US002, US0012, US0013, US0027, US026;
-  2. General **Non-Functional Requirements**;
-  3. **Use Case diagram**;
-  4. Class diagram for the user Stories that were nominated for me;
-  5. **General Class Diagram**;
-  6. **Boot of the repository**. Coded all the classes boot with the basic methods, logic of the program and declarated methods from CD;
-  7. Logic of the **map and position management**;
-  8. Logic of the **simulator managment of time**;
-  9. Logic of **station manipulation of resourses **of objects in it's range;
-  10. **Industry Production Logic**;
-  11. **JavaFx** Ui full built, design and implemtation;
-  12. **Application of Discrete Math** theory (graphs algorithms);
+### 🔢 Math
+The project incorporated concepts from:
+- **Statistics**
+- **Discrete Math**:
+  - Graph creation, manipulation, and algorithm implementation
+  - Matrix operations
+  - Algorithm analysis
 
-## Acomplishments 
+### 💻 Programming
+- Object-Oriented Programming (OOP)
+- Inheritance and Polymorphism
+- Interfaces and Abstraction
+- Exception Handling
+- Test-Driven Development (TDD)
 
-We managed to **deliver a great product** in the stipulated date, with a **great UI** and **all modules working as requested**, the logic of the simulator is not consuming to much memory, but the choices of library to represent the graphs(representation of connections between objects in the map and of the objects itselves) are of much cost.
+### 🧠 Software Engineering
+- GRASP principles
+- Requirement gathering & analysis
+- Software design and implementation
+- Validation and testing of business rules
+- DTOs and Mappers
+- Managing Cohesion and Coupling
+- Protected Variation and Adapter Patterns
 
+### 🤝 Teamwork & Tools
+- Version control with GitHub (branches, pull requests)
+- Task management via GitHub Boards
+- Communication through Discord
+- Agile methodology: SCRUM & sprints
 
+---
 
-## What I would have done differently  
-  1. Used more of polymorphism and interfaces,
-  2. Used more redundancy in the code to keep it less coupeled,
-  3. Lower the texture quality to keep the game lighter,
-  4. Created personalized exceptions,
-  5. Changed the library used to draw the graphs,
+## 👤 My Responsibilities
 
+1. **Requirements, Analysis, Design, and Implementation** of:
+   - US001, US002, US012, US013, US026, US027
+2. Definition of **Non-Functional Requirements**
+3. Creation of **Use Case Diagram**
+4. Development of **Class Diagrams** for assigned user stories
+5. Creation of a **General Class Diagram**
+6. **Project bootstrapping**: basic class creation, method declarations, program logic scaffolding
+7. Design and implementation of **Map & Position Management**
+8. Development of **Time Simulation Logic**
+9. **Station Resource Management**: handling object interactions within range
+10. **Industry Production Logic**
+11. Complete **UI Design and Implementation** using **JavaFX**
+12. Application of **Graph Algorithms** from Discrete Math
+
+---
+
+## 🏆 Achievements
+
+We successfully delivered a **fully functional product** by the deadline, with:
+- A polished and user-friendly **JavaFX UI**
+- All modules operating as specified
+- Efficient memory usage
+- A complex yet smooth **simulation engine**
+
+However, the library chosen for graph representation (used for connections between map objects and objects themselves) incurred significant performance cost.
+
+---
+
+## 🔄 What I Would Improve
+
+1. Apply **polymorphism and interfaces** more effectively
+2. Introduce **intentional redundancy** to reduce tight coupling
+3. Optimize performance by **reducing texture quality**
+4. Create **custom exceptions** for better error handling
+5. Choose a **lighter, more efficient graphing library**
+
+---
 
 <br /><br /><br /><br />
 
