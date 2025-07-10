@@ -1,3 +1,39 @@
+# RailroadTycoon project
+
+The project had the main goal applying a proper [SDP](https://www.geeksforgeeks.org/software-engineering/software-development-process/) given in the classes of the semester, and use the concepts of Object-Oriented programming, to develop a simulator based in the Railroad Tycoon.
+
+SDP
+[!image](SDP.png)
+
+The simulator should have two types of user, an editor and a player, each one of them should have it's own menu where they could manage each of their functionalities. 
+
+# Mine Resposabilities
+  1. Requirement Gathering, Analysis, Design and Implementation of US001, US002, US0012, US0013, US0027, US026;
+  2. General Non-Functional Requirements;
+  3. Use Case diagram;
+  4. Class diagram for the user Stories that were nominated for me;
+  5. General Class Diagram;
+  6. Boot of the repository. Start all the classes from the class digram in the repository with the basic methods and logic of the program;
+  7. Logic of the map and position management;
+  8. Logic of the simulator managment of time;
+  9. Logic of station manipulation of resourses of objects in it's range;
+  10. Industry Production Logic;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Project Template
 
 This project template contains didactic artifacts relevant to the Integrative Project to be developed during the second semester of the [Degree in Informatics Engineering (LEI)](https://www.isep.ipp.pt/Course/Course/26) from the [School of Engineering – Polytechnic of Porto (ISEP)](https://www.isep.ipp.pt).
