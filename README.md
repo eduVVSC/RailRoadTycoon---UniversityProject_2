@@ -7,17 +7,20 @@ SDP
 
 The simulator should have two types of user, an editor and a player, each one of them should have it's own menu where they could manage each of their functionalities. 
 
-# Mine Resposabilities
+## My Resposabilities
   1. Requirement Gathering, Analysis, Design and Implementation of US001, US002, US0012, US0013, US0027, US026;
   2. General Non-Functional Requirements;
   3. Use Case diagram;
   4. Class diagram for the user Stories that were nominated for me;
   5. General Class Diagram;
-  6. Boot of the repository. Start all the classes from the class digram in the repository with the basic methods and logic of the program;
+  6. Boot of the repository. Coded all the classes boot with the basic methods, logic of the program and declarated methods from CD;
   7. Logic of the map and position management;
   8. Logic of the simulator managment of time;
   9. Logic of station manipulation of resourses of objects in it's range;
   10. Industry Production Logic;
+  11. JavaFx Ui full built, design and implemtation;
+
+## Acomplishments
 
 
 
